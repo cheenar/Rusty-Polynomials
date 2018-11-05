@@ -1,0 +1,6 @@
+[package]
+name = "Polynomials"
+version = "0.1.0"
+authors = ["Cheenar Gupte <cheenar@berkeley.edu>"]
+
+[dependencies]
